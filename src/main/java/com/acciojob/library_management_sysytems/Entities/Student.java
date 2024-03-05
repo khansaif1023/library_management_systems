@@ -1,5 +1,4 @@
 package com.acciojob.library_management_sysytems.Entities;
-
 import jakarta.persistence.*;
 import lombok.*;
 
@@ -17,5 +16,4 @@ public class Student {
     private String branch;
     private  double cgpa;
     private String emailId;
-
 }
