@@ -1,6 +1,6 @@
 package com.acciojob.library_management_sysytems.Services;
 import com.acciojob.library_management_sysytems.Entities.Student;
-import com.acciojob.library_management_sysytems.Respository.StudentRepository;
+import com.acciojob.library_management_sysytems.Repository.StudentRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

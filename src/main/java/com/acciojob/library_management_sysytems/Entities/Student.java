@@ -8,6 +8,7 @@ import lombok.*;
 @Setter
 @NoArgsConstructor //this is like a default constructor
 @AllArgsConstructor //This is like a constructor passing argument
+
 public class Student {
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)

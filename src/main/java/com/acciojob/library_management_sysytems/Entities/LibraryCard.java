@@ -3,6 +3,7 @@ package com.acciojob.library_management_sysytems.Entities;
 import com.acciojob.library_management_sysytems.CardStatus;
 import jakarta.persistence.*;
 import lombok.*;
+import org.springframework.stereotype.Service;
 
 @Entity
 @Table(name="card_info")
